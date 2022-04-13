@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Concurrent Computing & Network Programming
 - 👯 I’m looking to collaborate on a basic ML project
 - 📫 How to reach me: mdalbrig@usc.edu or maxdanielalbright@gmail.com
-- 😄 Pronouns: he/him/his
+
 

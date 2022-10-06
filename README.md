@@ -5,7 +5,7 @@
 - 📫 How to reach me: mdalbrig@usc.edu or maxdanielalbright@gmail.com
 
 ### Connect with me:
-[![LinkedIn][3.2]][3]
+[![LinkedIn][2.2]][2]
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
